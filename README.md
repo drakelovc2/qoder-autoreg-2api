@@ -79,3 +79,8 @@ export ANTHROPIC_DEFAULT_OPUS_MODEL=qwen3.8-max
 
 MIT + условие добросовестного использования — см. [LICENSE](LICENSE).
 Qoder2Api — MIT, автор D3-vin.
+---
+
+🔥 Telegram: [@antivibedrake](https://t.me/antivibedrake) · [@zakurulife](https://t.me/zakurulife)
+
+Только для личного использования — см. [DISCLAIMER.md](DISCLAIMER.md).
